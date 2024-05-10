@@ -2,6 +2,7 @@
 # Trinity Andrew's Portfolio
 
 I am a Computer Science Major at CSUF and I supposed to be graduating in 2027, but the goal is to graduate as early as I can!
+Link to GitHub profile: https://github.com/trinitynevaeh
 
 ## Favorite CPSC 120L Labs
 

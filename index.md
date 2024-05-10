@@ -12,4 +12,4 @@ Lab 7
 Lab 7 was very fun to do because I really like doing the if else statements. I also enjoyed learning about this kind of code during lectures, so I was interested and excited to put them to use in this lab. This lab gave me a better understanding about if else statements, which made it a memorable lab for me. 
 
 Lab 10
-I liked this lab as well because it also still included if else statements. This lab was also very challenging to do, so completing this lab also made the lab much more rewarding and memorable. We also used for statements in the lab and I really enjoyed writing those. Part-2 was a little more difficult than part-1, which I liked because it made the lab more interesting to do. 
+I liked this lab as well because it also still included if else statements. This lab was also very challenging to do, so completing this lab also made the lab much more rewarding and memorable. We also used for statements in the lab and I really enjoyed writing those. Part-2 was a little more difficult than part-1, which I liked because it made the lab more interesting to do.
